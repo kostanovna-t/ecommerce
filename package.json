@@ -2,6 +2,7 @@
   "name": "ecommerce",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://kostanovna-t.github.io/ecommerce/",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.5",
     "@sendgrid/mail": "^8.1.5",
@@ -26,6 +27,7 @@
     "express-fileupload": "^1.5.1",
     "express-validator": "^6.8.1",
     "font-awesome": "^4.7.0",
+    "gh-pages": "^6.3.0",
     "history": "5.0.0",
     "js-sha3": "0.8.0",
     "jsonwebtoken": "^8.5.1",
@@ -59,7 +61,9 @@
     "client": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts eject",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
