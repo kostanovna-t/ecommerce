@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/kostanovna-t.github.io/ecommerce/static/css/main.1727154a.css",
-    "main.js": "/kostanovna-t.github.io/ecommerce/static/js/main.6ecdf828.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/kostanovna-t.github.io/ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/kostanovna-t.github.io/ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/kostanovna-t.github.io/ecommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/kostanovna-t.github.io/ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/kostanovna-t.github.io/ecommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "index.html": "/kostanovna-t.github.io/ecommerce/index.html",
-    "main.1727154a.css.map": "/kostanovna-t.github.io/ecommerce/static/css/main.1727154a.css.map",
-    "main.6ecdf828.js.map": "/kostanovna-t.github.io/ecommerce/static/js/main.6ecdf828.js.map"
+    "main.css": "/ecommerce/static/css/main.3e98d438.css",
+    "main.js": "/ecommerce/static/js/main.6ecdf828.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/ecommerce/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/ecommerce/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/ecommerce/index.html",
+    "main.3e98d438.css.map": "/ecommerce/static/css/main.3e98d438.css.map",
+    "main.6ecdf828.js.map": "/ecommerce/static/js/main.6ecdf828.js.map"
   },
   "entrypoints": [
-    "static/css/main.1727154a.css",
+    "static/css/main.3e98d438.css",
     "static/js/main.6ecdf828.js"
   ]
 }
